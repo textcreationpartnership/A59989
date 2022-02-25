@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ode upon the happy return of King Charles II to his languishing nations, May 29, 1660 by James Shirley : composed into music by Dr. Coleman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59989</idno>
+            <idno type="STC">Wing S3480A</idno>
+            <idno type="STC">ESTC R25755</idno>
+            <idno type="EEBO-CITATION">09102428</idno>
+            <idno type="OCLC">ocm 09102428</idno>
+            <idno type="VID">42453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42453)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ode upon the happy return of King Charles II to his languishing nations, May 29, 1660 by James Shirley : composed into music by Dr. Coleman.</title>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>No music included.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42453:1"/>
+            <pb facs="tcp:42453:1"/>
+            <p>AN ODE UPON THE HAPPY RETURN OF King Charles II.</p>
+            <p>TO His LANGVISHING NATIONS, <hi>May</hi> 29. 1660.</p>
+            <p>By <hi>JAMES SHIRLEY,</hi> Gent.</p>
+            <p>Compoſed into Muſick by Dr. <hi>Coleman.</hi>
+            </p>
+            <p>
+               <hi>Et capitur minimo Thuris Honore Deus<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed 1660,</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:42453:2" rendition="simple:additions"/>
+            <pb facs="tcp:42453:2"/>
+            <head>To the King.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>ANd is there one Fanatique left, in whoſe</l>
+               <l>Degenerate Soul a thought can ſtray,</l>
+               <l>And by the witchcraft of a cloud, oppoſe</l>
+               <l>This Bright, ſo long expected, Day?</l>
+               <l>Whence are theſe wild effects of Light,</l>
+               <l>Emergent from our tedious night?</l>
+               <l>Oh! can it be, thoſe life-creating beams,</l>
+               <l>That warm the Earth, and gild our ſtreams,</l>
+               <l>Purging th'infected air, our eyes, and mind,</l>
+               <l>Making even Moles themſelves to ſee, ſhould ſtrike theſe poor men blind?</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>It will convert an Atheiſt to a faith</l>
+               <l>Of the Creation, no leſs ſtrange,</l>
+               <l>Will he believe our <hi>Chaos,</hi> when he hath</l>
+               <l>Read the Miracles of our change:</l>
+               <l>In ſuch a rout was all our Frame</l>
+               <l>Of things, until the <hi>Fiat</hi> came;</l>
+               <l>Stoop, and lay down thy reaſon trifling man,</l>
+               <l>After a dark Abyſſe to ſhew his face,</l>
+               <l>VVhen natures, ſtifl'd in the deep, came gliding to their place.</l>
+            </lg>
+            <pb facs="tcp:42453:3"/>
+            <lg n="3">
+               <head>III.</head>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut wonder ceaſe, the Altars call to burn</l>
+               <l>With thanks and vows; what ſacrifice.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an be enough, great Pricne, for your return,</l>
+               <l>VVho are the Joy of Hearts and Eyes?</l>
+               <l>Our dutie's paid to him, that is</l>
+               <l>The Spring of Your, and all our bliſs:</l>
+               <l>Let us to Loyal <hi>Monk</hi> ſome trophies bring,</l>
+               <l>To whom, next God, we owe the King,</l>
+               <l>Our peace, &amp; Princes; and may you think fit,</l>
+               <l>VVhileſt on Your Head three Crowns, on his as many gar<g ref="char:EOLhyphen"/>lands ſit.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Now welcome, Royal Sir, our bells impart,</l>
+               <l>And piles of wood, but heat and noyſe:</l>
+               <l>Then take it from the language of a heart,</l>
+               <l>Whoſe crowd of wiſhes break into a voice;</l>
+               <l>And thus do upward <hi>fly.</hi> May all</l>
+               <l>That pious men can think, or call</l>
+               <l>A bleſsing, wait and watch about your throne;</l>
+               <l>Live long our glorious King, and be your own!</l>
+               <l>And when time, faint with years, points to the Biere,</l>
+               <l>Find it no loſs, to be in Heaven, and <hi>Charles</hi> the ſecond there</l>
+            </lg>
+            <closer>
+               <signed>James Sherley.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="1" facs="tcp:42453:3"/>
+            <head>TO THE PEOPLE.</head>
+            <lg>
+               <l>WElcome thou happy day, in which was born</l>
+               <l>The pledge of all our Joy, the Prince,</l>
+               <l>Welcome again the ſame white happy morn,</l>
+               <l>Although ſad thirty winters ſince!</l>
+               <l>And now I ſing</l>
+               <l>That Prince our King.</l>
+               <l>The cure of all our wounds is He.</l>
+               <l>Guns, every Bell,</l>
+               <l>And Bone-fires tell</l>
+               <l>His ſafe return, our Iſland round</l>
+               <l>Nothing but <hi>Charles,</hi> King <hi>Charles</hi> reſound.</l>
+               <l>A joyful ſight to ſee.</l>
+               <pb n="2" facs="tcp:42453:4"/>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Major, and Train of Scarlet-Brethren ride</l>
+               <l>To meet the King, next them we told</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve hundred more, all in their pluſh and pride,</l>
+               <l>And Chains, you may believe were gold.</l>
+               <l>Conduits made fine</l>
+               <l>Piſt Claret wine.</l>
+               <l>The Troops and Trumpets were hard by,</l>
+               <l>Buff and gold lace</l>
+               <l>As thick as graſs</l>
+               <l>Triumphant march, to and agen,</l>
+               <l>Some gallant horſe, ſome gallant men,</l>
+               <l>A joyful ſight to ſee.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Dutch at this ſtrange turning of the ſtream</l>
+               <l>VVill be our Trouts another while,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur King &amp; Common-wealth's all one to them,</l>
+               <l>So they may keep their Fiſhing ſtill,</l>
+               <l>Purchaſe and prey</l>
+               <l>And Spawn at Sea:</l>
+               <l>But oh, the French that were ſo free!</l>
+               <l>Pardonne moy,</l>
+               <l>Excuſe their joy.</l>
+               <l>The Exil'd CHARLES this day is come,</l>
+               <l>VVho may ſend all the Pedlars home.</l>
+               <l>A joyful ſight to ſee.</l>
+               <pb n="3" facs="tcp:42453:4"/>
+               <l>The Iriſh, that in Uſquebauh did pledge</l>
+               <l>His Birth, their jolly tunes give ore.</l>
+               <l>A Lord not now is maſter of a Hedge,</l>
+               <l>Scarce bonny clabbor within door.</l>
+               <l>But you, that were</l>
+               <l>No Rebel there</l>
+               <l>May re-aſſume your merry glee,</l>
+               <l>And change your tone</l>
+               <l>Of Hone, oh Hone</l>
+               <l>VVhen you ſhall hear a voice proclaim</l>
+               <l>Back to the Province whence you came</l>
+               <l>A joyful ſight to ſee.</l>
+            </lg>
+            <lg>
+               <l>The Scots like honeſt Men, <hi>Hoſanna</hi> crie,</l>
+               <l>They knew his Father mickle well,</l>
+               <l>And ſay, <hi>God ſave the King;</hi> Amen ſay I,</l>
+               <l>From ſuch as have the trick to ſell,</l>
+               <l>There are ſome few</l>
+               <l>That are true blew.</l>
+               <l>The VVelſh with joy tranſported be,</l>
+               <l>Plutter and Nails</l>
+               <l>Pleſs Prince of <hi>Wales</hi>
+               </l>
+               <l>VVho now is King, and pright as ſtar</l>
+               <l>Upon the top of <hi>Penmenmaure,</hi>
+               </l>
+               <l>A joyful ſight to ſee.</l>
+               <pb n="4" facs="tcp:42453:5"/>
+               <l>But oh, the Landlord of the Rich <hi>Peru</hi>
+               </l>
+               <l>Is ſayling with his golden Fleet,</l>
+               <l>And in a ſea, of pure Canary too,</l>
+               <l>To land his Oar at <hi>Charles</hi> his feet.</l>
+               <l>Rouſe from your ſhade</l>
+               <l>Dull men of Trade!</l>
+               <l>The ſtorms are laid, the ſeas are free,</l>
+               <l>A peace with Spain</l>
+               <l>Brings all again</l>
+               <l>You ſhall like <hi>Grandes</hi> march in ſtate</l>
+               <l>And ſwim in <hi>Rios de la Plate,</hi>
+               </l>
+               <l>A joyful ſight to ſee.</l>
+            </lg>
+            <lg>
+               <l>That Hand that brought our beſt of Kings and Men,</l>
+               <l>Now fix him in his Royal Throne.</l>
+               <l>That Knaves may never preach him out agen,</l>
+               <l>Nor us into Rebellion,</l>
+               <l>'Tis our turn now</l>
+               <l>To Vote and Vow,</l>
+               <l>And Juſtice cry our ſtreets throughout.</l>
+               <l>So. <hi>Charles,</hi> God bleſs,</l>
+               <l>Queen, Dukes no leſs,</l>
+               <l>And <hi>Monk,</hi> who has thrown off his Hood,</l>
+               <l>And by his Prudence, without blood,</l>
+               <l>Brought all theſe things about.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42453:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
